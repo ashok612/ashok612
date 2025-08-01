@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ashok — Aspiring Data Analyst
+# 👋 Hi there, I'm Ashok — Aspiring Junior Data Analyst
 
 🔍 I'm passionate about turning raw data into meaningful insights.  
 💻 I specialize in **Excel, SQL, Python, Power BI**, and **data storytelling**.
